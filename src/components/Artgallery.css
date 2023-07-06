@@ -1,0 +1,51 @@
+.artback{
+    background-image: url(https://png.pngtree.com/background/20230516/original/pngtree-the-art-world-in-the-gallery-a-small-hallway-with-paintings-picture-image_2609348.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    width: 96em;
+    height: 41.2em;
+    position: absolute;
+}
+.card1:hover{
+    transform: scale(1.05);
+ box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+.card1-h-100{
+ background-color: #01235a;
+}
+#btnpg{
+ width:9em;
+ height: 3em;
+ background-color: #031c40;
+ background-image: linear-gradient(315deg, #e98213 30%, #09768e 74%);
+ color: white;
+ border: none;
+}
+#btnpg:hover{
+ width: 10em;
+ background-color: #031c40;
+ background-image: linear-gradient(315deg, #026217 30%, #08b092 74%);
+ color: gold;
+}
+.card1{
+
+    text-align: center;
+    align-items: center;
+    background-color: #031c40;
+    background-image: linear-gradient(315deg, #a00b00 30%, #dc6c6c 74%);
+    background-repeat: repeat;
+}
+#artpara1{
+    color: rgb(252, 253, 255);
+    margin-left: 14em;
+    font-size: 240%;
+    font-style:oblique;
+    font-weight: 500;
+}
+#artpara2{
+    color: rgb(252, 253, 255);
+    margin-left: 12.5em;
+    font-size: 240%;
+    font-style:oblique;
+    font-weight: 500;
+}

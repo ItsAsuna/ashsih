@@ -1,0 +1,34 @@
+.background3{
+    background-image: url(https://www.ncpamumbai.com/wp-content/uploads/2019/11/Piramal-Gallery-1899x727.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    width: 96em;
+    height: 41.2em;
+    position: absolute;
+
+}
+
+
+#abtimgs1{
+  height: 28em;
+  width: 15em;
+}
+.card-title{
+  text-align: center;
+  color: whitesmoke;
+}
+.card-text{
+    text-align: center;
+    font-size: 130%;
+    color: whitesmoke;
+}
+#mycard{
+    width: 18em;
+}
+.card{
+    text-align: center;
+    align-items: center;
+    background-color: #031c40;
+    background-image: linear-gradient(315deg, #dd8520 30%, #0fcfa9 74%);
+
+}
